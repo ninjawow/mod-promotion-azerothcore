@@ -82,7 +82,7 @@ LevelForPromotion = 80
 #
 #     Description: Here You Put The Spells Of The Promotion Mounts
 #
-#     Example: 42277 - ( Swift Spectral Tiger - ID SPELL)
+#     Example: 42776 - ( Swift Spectral Tiger - ID SPELL)
 #              37015 - ( Swift Nether Drake - ID SPELL)
 #
 #     Default: mountPromotion = 42277
@@ -90,7 +90,7 @@ LevelForPromotion = 80
 #
 
 mountEnable.enable = true
-mountPromotion = 42277
+mountPromotion = 42776
 
 #
 #
