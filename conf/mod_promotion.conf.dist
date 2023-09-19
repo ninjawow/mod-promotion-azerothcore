@@ -19,7 +19,7 @@
 # default: true
 #
 #
-announce_module.enableHelloWorld=true
+announce_module.enableHelloWorld=false
 
 ######################################################################################################
 #	SETTIGNS MODULE
@@ -46,7 +46,7 @@ promotionEnable.enable=true
 #
 #        Default:     1
 
-promotion.count = 1
+promotion.count = 2
 
 #
 #
